@@ -862,15 +862,6 @@ CallKitManager.shared.currentUserInfo = profile
 
 ---
 
-## 📌 功能限制与说明
-
-### 已移除功能
-
-- ❌ 通话控制按钮（切换摄像头、静音、扬声器）
-- ❌ 来电弹窗对话框
-- ❌ 通话状态实时显示
-
-> **说明**: 以上功能由原生 CallKit SDK 的 UI 层自动处理，Flutter 层仅保留基础调用接口。
 
 ### 登录方式
 
