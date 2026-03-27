@@ -1,0 +1,66 @@
+// 手动引入 Flutter 配置
+def localProperties = new Properties()
+def localPropertiesFile = rootProject.file('local.properties')
+if (localPropertiesFile.exists()) {
+    localPropertiesFile.withInputStream { localProperties.load(it) }
+}
+
+def flutterRoot = localProperties.getProperty('flutter.sdk')
+if (flutterRoot == null) {
+    throw new GradleException("Flutter SDK not found. Define location with flutter.sdk in the local.properties file.")
+}
+
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
+
+android {
+    namespace = "com.example.callkit.easemob_flutter_callkit"
+    compileSdk = 34
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
+    }
+
+    kotlinOptions {
+        jvmTarget = '17'
+    }
+
+    defaultConfig {
+        applicationId = "com.example.callkit.easemob_flutter_callkit"
+        minSdk = 24
+        targetSdk = 34
+        versionCode = 1
+        versionName = "1.0"
+    }
+
+    buildTypes {
+        release {
+            signingConfig = signingConfigs.debug
+        }
+    }
+    
+    // 禁用 Java 模块系统 - 解决 jlink 错误
+    tasks.withType(JavaCompile).configureEach {
+        options.release = 17
+    }
+    
+    // 禁用 androidJdkImage 任务
+    afterEvaluate {
+        tasks.configureEach {
+            if (name.contains("androidJdkImage")) {
+                enabled = false
+            }
+        }
+    }
+}
+
+flutter {
+    source = "../.."
+}
+
+dependencies {
+    // 本地 CallKit 模块
+    implementation project(':ease-call-kit')
+}

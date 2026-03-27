@@ -1,0 +1,21 @@
+name: easemob_flutter_callkit
+description: A Flutter project for EaseMob CallKit.
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  im_flutter_sdk: ^4.18.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true

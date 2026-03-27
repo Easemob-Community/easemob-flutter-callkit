@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/liupeng/Downloads/easemob/flutter_project/easemob-flutter-callkit/ios/build/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/Runner-master.dia",
+    "emit-module-dependencies" : "/Users/liupeng/Downloads/easemob/flutter_project/easemob-flutter-callkit/ios/build/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/Runner-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/liupeng/Downloads/easemob/flutter_project/easemob-flutter-callkit/ios/build/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/Runner-master-emit-module.dia",
+    "swift-dependencies" : "/Users/liupeng/Downloads/easemob/flutter_project/easemob-flutter-callkit/ios/build/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/Runner-master.swiftdeps"
+  },
+  "/Users/liupeng/Downloads/easemob/flutter_project/easemob-flutter-callkit/ios/build/Runner.build/Debug-iphoneos/Runner.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/liupeng/Downloads/easemob/flutter_project/easemob-flutter-callkit/ios/build/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/liupeng/Downloads/easemob/flutter_project/easemob-flutter-callkit/ios/build/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/liupeng/Downloads/easemob/flutter_project/easemob-flutter-callkit/ios/build/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/liupeng/Downloads/easemob/flutter_project/easemob-flutter-callkit/ios/build/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/liupeng/Downloads/easemob/flutter_project/easemob-flutter-callkit/ios/build/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/liupeng/Downloads/easemob/flutter_project/easemob-flutter-callkit/ios/build/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/liupeng/Downloads/easemob/flutter_project/easemob-flutter-callkit/ios/build/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/liupeng/Downloads/easemob/flutter_project/easemob-flutter-callkit/ios/Runner/AppDelegate.swift" : {
+    "const-values" : "/Users/liupeng/Downloads/easemob/flutter_project/easemob-flutter-callkit/ios/build/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/liupeng/Downloads/easemob/flutter_project/easemob-flutter-callkit/ios/build/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/liupeng/Downloads/easemob/flutter_project/easemob-flutter-callkit/ios/build/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/liupeng/Downloads/easemob/flutter_project/easemob-flutter-callkit/ios/build/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/liupeng/Downloads/easemob/flutter_project/easemob-flutter-callkit/ios/build/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/liupeng/Downloads/easemob/flutter_project/easemob-flutter-callkit/ios/build/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/liupeng/Downloads/easemob/flutter_project/easemob-flutter-callkit/ios/build/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/liupeng/Downloads/easemob/flutter_project/easemob-flutter-callkit/ios/Runner/CallKitPlugin.swift" : {
+    "const-values" : "/Users/liupeng/Downloads/easemob/flutter_project/easemob-flutter-callkit/ios/build/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/CallKitPlugin.swiftconstvalues",
+    "dependencies" : "/Users/liupeng/Downloads/easemob/flutter_project/easemob-flutter-callkit/ios/build/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/CallKitPlugin.d",
+    "diagnostics" : "/Users/liupeng/Downloads/easemob/flutter_project/easemob-flutter-callkit/ios/build/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/CallKitPlugin.dia",
+    "index-unit-output-path" : "/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/CallKitPlugin.o",
+    "llvm-bc" : "/Users/liupeng/Downloads/easemob/flutter_project/easemob-flutter-callkit/ios/build/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/CallKitPlugin.bc",
+    "object" : "/Users/liupeng/Downloads/easemob/flutter_project/easemob-flutter-callkit/ios/build/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/CallKitPlugin.o",
+    "swift-dependencies" : "/Users/liupeng/Downloads/easemob/flutter_project/easemob-flutter-callkit/ios/build/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/CallKitPlugin.swiftdeps",
+    "swiftmodule" : "/Users/liupeng/Downloads/easemob/flutter_project/easemob-flutter-callkit/ios/build/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/CallKitPlugin~partial.swiftmodule"
+  }
+}
