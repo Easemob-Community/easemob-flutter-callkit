@@ -938,6 +938,3 @@ CallKitManager.shared.currentUserInfo = profile
 
 ---
 
-*文档版本: 2.0*
-
-*更新时间: 2024年3月*
