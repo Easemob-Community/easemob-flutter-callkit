@@ -13,7 +13,7 @@ PODS:
     - ShengwangInfra_iOS (= 1.3.5)
 
 DEPENDENCIES:
-  - EaseCallUIKit (from `/Users/liupeng/Downloads/callkit/easemob-callkit-iOS-dev`)
+  - EaseCallUIKit (from `/Users/xxxxxxx/Downloads/callkit/easemob-callkit-iOS-dev`)
   - Flutter (from `Flutter`)
   - HyphenateChat (>= 4.19.0)
   - im_flutter_sdk_ios (from `.symlinks/plugins/im_flutter_sdk_ios/ios`)
@@ -26,7 +26,7 @@ SPEC REPOS:
 
 EXTERNAL SOURCES:
   EaseCallUIKit:
-    :path: "/Users/liupeng/Downloads/callkit/easemob-callkit-iOS-dev"
+    :path: "/Users/xxxxxxxx/Downloads/callkit/easemob-callkit-iOS-dev"
   Flutter:
     :path: Flutter
   im_flutter_sdk_ios:

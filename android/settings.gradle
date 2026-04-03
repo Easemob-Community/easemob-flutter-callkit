@@ -31,4 +31,4 @@ include ":app"
 
 // 引入本地 CallKit 模块
 include ':ease-call-kit'
-project(':ease-call-kit').projectDir = new File('/Users/liupeng/Downloads/callkit/easemob-callkit-android-dev/ease-call-kit')
+project(':ease-call-kit').projectDir = new File('/Users/xxxxxxxx/Downloads/callkit/easemob-callkit-android-dev/ease-call-kit')
