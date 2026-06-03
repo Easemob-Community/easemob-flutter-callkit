@@ -48,7 +48,7 @@ dependencies:
     sdk: flutter
   
   # 环信 IM SDK（必须）
-  easemob_im_sdk: ^4.5.0  # 请使用最新版本
+  im_flutter_sdk: ^4.5.0  # 请使用最新版本
 ```
 
 然后获取依赖：
